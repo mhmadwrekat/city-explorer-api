@@ -3,7 +3,7 @@
 ---
 * **Author :** Mohammad-Alwrekat
 
-* **Version :** 1.0.0 
+* **Version :** 1.0.0 .
 
 * **Getting Started :** open the website enter a city name press on explore .
 
