@@ -47,3 +47,25 @@ Finish time: 7:15 pm .
 Actual time needed to complete: 5 Hour .
 
 ---
+Name of feature: **2** Weathers .
+
+Estimate of time needed to complete: 5 Hour .
+
+Start time : 1:15 pm .
+
+Finish time: 6:15 pm . 
+
+Actual time needed to complete: 5 Hour .
+
+---
+Name of feature: **3** Movies .
+
+Estimate of time needed to complete: 4 Hour .
+
+Start time : 6:30 pm .
+
+Finish time: 11:00 pm . 
+
+Actual time needed to complete: 4:30 Hour .
+
+---
