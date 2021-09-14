@@ -11,6 +11,10 @@ app.listen(PORT, () => {
   console.log(`Hello from The Back-End!❤️ You In Port:${PORT} !`);
 });
 /////////////////////////////////////
+app.get('/start', (req, res) => {
+  res.status(200).send('Hello from The Back-End!❤️ | in URL => Replase Start With data to check data ❤️');
+});
+/////////////////////////////////////
 app.get('/data', (req, res) => {
   console.log('❤️');
   let city = data[0];
