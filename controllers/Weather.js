@@ -10,7 +10,7 @@ const handleWeather = async (req, res) => {
     let axiosResponse = await Axios.get(url);
     let weatherData = axiosResponse.data;
     let cleanedData = weatherData.data.map(item => {
-        return new ForeCast(item.datetime, item.weather.description);
+        return new ForeCast(item.datetime, item.weather.description , item.max_temp);
     })
     res.status(200).json(cleanedData);
 }
