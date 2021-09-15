@@ -1,6 +1,6 @@
 # city-explorer-ap
 
-### ***[Live URL ......](https://city-explorers-api.herokuapp.com/start)***
+### ***[Live URL ......](https://city-explorers-api.herokuapp.com/)***
 
 ---
 * **Author :** Mohammad-Alwrekat
@@ -67,5 +67,16 @@ Start time : 6:30 pm .
 Finish time: 11:00 pm . 
 
 Actual time needed to complete: 4:30 Hour .
+
+---
+Name of feature: **4** Refactoring into Modules .
+
+Estimate of time needed to complete: 1 Hour .
+
+Start time : 1:30 pm .
+
+Finish time: 2:30 pm . 
+
+Actual time needed to complete: 1:00 Hour .
 
 ---
