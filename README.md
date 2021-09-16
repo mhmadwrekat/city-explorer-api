@@ -80,3 +80,14 @@ Finish time: 2:30 pm .
 Actual time needed to complete: 1:00 Hour .
 
 ---
+Name of feature: **5** The Performance .
+
+Estimate of time needed to complete: 2 Hour .
+
+Start time : 1:30 pm .
+
+Finish time: 3:30 pm . 
+
+Actual time needed to complete: 2:00 Hour .
+
+---
